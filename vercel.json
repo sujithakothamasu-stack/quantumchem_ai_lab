@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd QuantumChem-Ai-Lab/quantumchem-ai-lab && npm run build",
+  "outputDirectory": "QuantumChem-Ai-Lab/quantumchem-ai-lab/dist",
+  "framework": "vite",
+  "nodeVersion": "18.x"
+}
